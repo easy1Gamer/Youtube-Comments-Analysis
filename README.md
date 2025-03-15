@@ -2,4 +2,4 @@
 
 This is my first project on data analysis
 
-Data sorce: https://www.kaggle.com/datasets/datasnaek/youtube
+Data source: https://www.kaggle.com/datasets/datasnaek/youtube
